@@ -1,6 +1,3 @@
-[submodule "klear-generator"]
-	path = generator
-	url = git://github.com/irontec/klear-generator.git
 [submodule "generator"]
 	path = generator
 	url = git://github.com/irontec/klear-generator.git
