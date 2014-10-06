@@ -1,3 +1,15 @@
 [submodule "generator"]
 	path = generator
 	url = git://github.com/irontec/klear-generator.git
+[submodule "library/Iron"]
+	path = library/Iron
+	url = https://github.com/irontec/klear-library.git
+[submodule "modules/klear"]
+	path = modules/klear
+	url = https://github.com/irontec/klear.git
+[submodule "modules/klearMatrix"]
+	path = modules/klearMatrix
+	url = https://github.com/irontec/klearMatrix.git
+[submodule "modules/klearGallery"]
+	path = modules/klearGallery
+	url = https://github.com/irontec/klearGallery.git
