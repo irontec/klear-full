@@ -1,6 +1,6 @@
 [submodule "generator"]
 	path = generator
-	url = git://github.com/irontec/klear-generator.git
+	url = https://github.com/irontec/klear-generator.git
 [submodule "library/Iron"]
 	path = library/Iron
 	url = https://github.com/irontec/klear-library.git
